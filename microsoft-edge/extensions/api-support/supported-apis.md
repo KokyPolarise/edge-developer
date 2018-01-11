@@ -127,6 +127,27 @@ API | Known issues | Chrome incompatibilities
 [idle.queryState](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/API/idle/queryState) | | |
 
 
+## notifications
+
+The following `notifications` APIs are supported:
+
+API | Known issues | Chrome incompatibilities
+:------------ | :------------- | :--------------------
+[notification](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/notifications) | | |
+[notifications.NotificationOptions](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/notifications/NotificationOptions) | | |
+[notifications.TemplateType](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/notifications/TemplateType) | | |
+[notification.clear](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/notifications/clear) | | |
+[notification.create](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/notifications/create) | | |
+[notification.getAll](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/notifications/getAll) | | |
+[notification.getPermissionLevel]() | | |
+[notification.onButtonClicked](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/notifications/onButtonClicked) | | |
+[notification.onClicked](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/notifications/onClicked) | | |
+[notification.onClosed](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/notifications/onClosed) | | |
+[notification.onPermissionLevelChanged]() | | |
+[notification.update](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/notifications/update) | | |
+
+
+
 ## pageAction
 
 The following `pageAction` APIs are supported:

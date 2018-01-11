@@ -73,6 +73,7 @@ contextMenus | Gives access to `contextMenus` API. This enables adding items to 
 cookies | Gives access to the `cookies` API. This enable querying and modifying cookies as well as being notified when they change.
 geolocation | Allow the extension to use the HTML5 `geolocation` API without prompting the user for permission.
 idle | Gives access to the `idle` API. This enables detection of when the machine's idle state changes.
+notifications | Gives access to the `notifications` API. This enables your extensions to display notifications within the browser and the Action Center.
 storage | Gives access to the `storage` API. This enables storing, retrieving, and tracking changes to user data.
 tabs | Gives access to the `tabs` API to interact with the browser's tab system. This enables creating, modifying, and rearranging tabs in the browser, including the URLs associated with each tab.
 unlimitedStorage | Allows [storage.local](https://developer.mozilla.org/Add-ons/WebExtensions/API/storage/local) to have unlimited storage (depending on system resources) instead of 5MB. The max storage per key value pair is also increased from 5MB to unlimited (depending on system resources).
