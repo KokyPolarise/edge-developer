@@ -59,6 +59,7 @@ Key | Known issues | Chrome incompatibilities
 [content_security_policy](https://developer.mozilla.org/Add-ons/WebExtensions/manifest.json/content_security_policy)  | The content security policy of a page blocks websockets in content scripts, generating an undefined exception. | Microsoft Edge extensions currently only support [Default Policy Restrictions](https://developer.mozilla.org/Add-ons/WebExtensions/Content_Security_Policy#Default_content_security_policy): `script-src 'self'; object-src 'self'` |
 key  | | |
 options_page | | |
+[incognito](https://developer.mozilla.org/Add-ons/WebExtensions/manifest.json/incognito) | | |
 [permissions](https://developer.mozilla.org/docs/Mozilla/Add-ons/WebExtensions/manifest.json/permissions)  | | |
 short_name  | | |
 [web_accessible_resources](https://developer.mozilla.org/docs/Mozilla/Add-ons/WebExtensions/manifest.json/web_accessible_resources) | | |
