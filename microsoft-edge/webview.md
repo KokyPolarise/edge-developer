@@ -11,12 +11,12 @@ keywords: webview, windows 10 apps, uwp, edge
 
 # Microsoft Edge WebView for Windows 10 apps
 
-The Microsoft Edge [WebView control](https://docs.microsoft.com/en-us/windows/uwp/design/controls-and-patterns/web-view) enables you to host web content in your Windows 10 app.
+The Microsoft Edge [WebView control](https://docs.microsoft.com/en-us/windows/uwp/design/controls-and-patterns/web-view) enables you to host web content within your Windows 10 app.
 
 You can use it as a [XAML element](https://docs.microsoft.com/en-us/uwp/api/Windows.UI.Xaml.Controls.WebView) (for C# and C++ apps) or an HTML element for JavaScript-based Windows 10 apps, as described here.
 
 > [!NOTE]
-> Coming soon: Microsoft Edge WebView control availability for traditional Win32 destkop applications using WPF and WinForms. Browse the [Windows.Web.UI](https://docs.microsoft.com/en-us/uwp/api/windows.web.ui) and [Windows.Web.UI.Interop](https://docs.microsoft.com/en-us/uwp/api/windows.web.ui.interop) WinRT namespaces to preview upcoming functionality.
+> Coming soon: Microsoft Edge WebView for traditional WPF, Windows Forms, and Win32 applications. Browse the [Windows.Web.UI](https://docs.microsoft.com/en-us/uwp/api/windows.web.ui) and [Windows.Web.UI.Interop](https://docs.microsoft.com/en-us/uwp/api/windows.web.ui.interop) WinRT namespaces to preview upcoming functionality. The control will ship as an open source NuGet package in the coming months.
 
 ## Syntax
 
